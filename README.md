@@ -41,4 +41,4 @@ Click "Create Figma Table".
 Your new table will appear on the canvas, ready to use!
 
 ## Links
-[Try it on Figma Community](Add your Figma plugin link here)
+https://www.figma.com/community/plugin/1578527492854744190
