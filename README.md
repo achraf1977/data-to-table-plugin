@@ -42,3 +42,6 @@ Your new table will appear on the canvas, ready to use!
 
 ## Links
 https://www.figma.com/community/plugin/1578527492854744190
+
+## Preview
+https://github.com/user-attachments/assets/256019de-53e3-4143-ac0e-22d3b6aab7f2
